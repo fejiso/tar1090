@@ -1,5 +1,7 @@
 # tar1090
 
+**Note:** The changes in this repository are related to packaging for Nix/NixOS and do not affect the upstream project.
+
 
 ![Screenshot1](https://raw.githubusercontent.com/wiedehopf/tar1090/screenshots/screenshot3.png)
 
